@@ -77,21 +77,21 @@
 <h2> Gallery </h2> 
             <div class="gallery">
 
- <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. intro.png"alt="OAP" width="200" height="200"> 
+ <img src= "a. intro.png"alt="OAP" width="200" height="200"> 
             
- <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. Lighting.png"alt="OAP" width="200" height="200"> 
+ <img src= "a. Lighting.png"alt="OAP" width="200" height="200"> 
 
- <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. stressors.png" alt="OAP" width="200" height="200"> 
+ <img src="a. stressors.png" alt="OAP" width="200" height="200"> 
 
- <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.brightness.jpg" alt="OAP" width="200" height="200"> 
+ <img src="a.brightness.jpg" alt="OAP" width="200" height="200"> 
 
- <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.fun.png" alt="OAP" width="200" height="200">
+ <img src="a.fun.png" alt="OAP" width="200" height="200">
 
- <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.gulpany.png"alt="OAP" width="200" height="200"> 
+ <img src= "a.gulpany.png"alt="OAP" width="200" height="200"> 
 
- <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.silaw.jpg"alt="OAP" width="200" height="200"> 
+ <img src= "a.silaw.jpg"alt="OAP" width="200" height="200"> 
 
- <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.props.png" alt="OAp" width="200" height="200">
+ <img src="a.props.png" alt="OAp" width="200" height="200">
             </div>
         </section>
 <br>
